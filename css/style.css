@@ -1,0 +1,26 @@
+#titulo{
+    color: blue;
+    background-color: aquamarine;
+    font-size: 35px;    
+}
+h1{
+    color: chartreuse;
+    text-align: center;
+}
+
+div{
+    border: 2px solid red;
+    padding: 2px 15px;
+    background-color: blue;
+    margin: 5px 0px;
+}
+
+.link1, .link2{
+    text-align: end;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+}
